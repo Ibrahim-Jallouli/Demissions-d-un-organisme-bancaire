@@ -1,21 +1,5 @@
 # Prédiction de Démission des Clients Dépendances
 
-## Structure du projet
-
-
-├── data/								# Contient les fichiers CSV 
-│   ├── table1.csv
-│   ├── table2.csv
-│   ├── clients_fusionnes.csv
-│   └── clients_model_ready.csv
-├── figures/							# Graphiques d'analyse (histogrammes, boxplots, etc.)		
-├── models/								# Modèles entraînés, matrices de confusion, fichiers CSV de résultats
-├── fusion_nettoyage_clients.py
-├── pretraitement_et_visualisation.py
-├── modele_prediction.py
-├── main.py								# Pipeline principal qui exécute tout
-
-
 # Dépendances
 
 pandas
